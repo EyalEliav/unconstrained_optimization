@@ -101,7 +101,7 @@ class LineSearchCommonFunctions:
             x_next = x + alpha * direction
             f_x_next, gradient_x_next, _ = f(x_next)
             wolfe_conds_set = self.wolfe_cond(
-                f_x, gradient_x, f_x_next, gradient_x_next, direction, alpha
+                f_x, gradient_x, f_x_next, direction, alpha
             )
             alpha /= 2
             if alpha == 0:
@@ -109,5 +109,5 @@ class LineSearchCommonFunctions:
                 break
         return x_next, f_x_next, gradient_x_next
 
-    def wolfe_cond(self, f_x, g_x, f_x_next, g_x_next, direction, alpha):
+    def wolfe_cond(self, f_x, g_x, f_x_next, direction, alpha):
         return f_x_next <= f_x + 0.5 * alpha * g_x.T @ direction
