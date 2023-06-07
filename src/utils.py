@@ -16,14 +16,14 @@ class GraphDrawing:
 
         plt.figure()
         plt.contourf(x, y, z, 20)
-        plt.xlabel('X')
-        plt.ylabel('Y')
+        plt.xlabel("X")
+        plt.ylabel("Y")
         plt.title(title)
         plt.colorbar()
 
     def draw_point(self, x):
-        plt.plot(x[0], x[1], 'go')
+        plt.plot(x[0], x[1], "go")
 
     def finish_draw(self, filename):
-        plt.show()
         plt.savefig(os.path.dirname(__file__) + f"/../plots/{filename}.png")
+        plt.show()
