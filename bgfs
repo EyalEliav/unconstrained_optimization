@@ -1,0 +1,149 @@
+f1 :
+Iteration 1: x=[1 1], f(x)=2
+Iteration 2: x=[0. 0.], f(x)=0.0
+f2 :
+Iteration 1: x=[1 1], f(x)=101
+Iteration 2: x=[0.9921875 0.21875  ], f(x)=5.76959228515625
+Iteration 3: x=[0.8526174 0.0791799], f(x)=1.3539021217108522
+Iteration 4: x=[0.79961058 0.02617308], f(x)=0.7078800677292705
+Iteration 5: x=[0.77895979 0.00552229], f(x)=0.6098279101465076
+Iteration 6: x=[ 0.7709145 -0.002523 ], f(x)=0.5949457160366002
+Iteration 7: x=[ 0.76778015 -0.00565735], f(x)=0.5926869212585452
+Iteration 8: x=[ 0.76655905 -0.00687845], f(x)=0.5923440851275494
+Iteration 9: x=[ 0.76608333 -0.00735417], f(x)=0.5922920500273013
+Iteration 10: x=[ 0.76589799 -0.00753951], f(x)=0.5922841522259524
+Iteration 11: x=[ 0.76582579 -0.00761171], f(x)=0.592282953510742
+Iteration 12: x=[ 0.76579766 -0.00763984], f(x)=0.5922827715717323
+Iteration 13: x=[ 0.7657867 -0.0076508], f(x)=0.5922827439573306
+f3 :
+Iteration 1: x=[1 1], f(x)=15.263485025340572
+Iteration 2: x=[0.74701764 1.13373639], f(x)=2.478072026424513
+Iteration 3: x=[0.51351786 0.90023661], f(x)=1.077012095165239
+Iteration 4: x=[0.46123808 0.84795683], f(x)=0.9913636827632518
+Iteration 5: x=[0.44320595 0.8299247 ], f(x)=0.9811743427726849
+Iteration 6: x=[0.43698638 0.82370513], f(x)=0.9799621469300328
+Iteration 7: x=[0.43484115 0.8215599 ], f(x)=0.9798179355520342
+Iteration 8: x=[0.43410123 0.82081998], f(x)=0.9798007791480814
+Iteration 9: x=[0.43384602 0.82056477], f(x)=0.9797987381011082
+Iteration 10: x=[0.43375799 0.82047674], f(x)=0.9797984952837462
+Iteration 11: x=[0.43372763 0.82044638], f(x)=0.9797984663964756
+f4 :
+Iteration 1: x=[-1  2], f(x)=104
+Iteration 2: x=[-1.38671875  1.8046875 ], f(x)=7.095948317088187
+Iteration 3: x=[-1.36027312  1.83113313], f(x)=5.607791052985496
+Iteration 4: x=[-1.35656778  1.83483847], f(x)=5.556368570107053
+Iteration 5: x=[-1.35481761  1.83658864], f(x)=5.5452778956826885
+Iteration 6: x=[-1.35345535  1.8379509 ], f(x)=5.542484703279704
+f5 :
+Iteration 1: x=[1 1], f(x)=6
+Iteration 2: x=[ 0. -4.], f(x)=-20.0
+Iteration 3: x=[nan nan], f(x)=nan
+Iteration 4: x=[nan nan], f(x)=nan
+Iteration 5: x=[nan nan], f(x)=nan
+Iteration 6: x=[nan nan], f(x)=nan
+Iteration 7: x=[nan nan], f(x)=nan
+Iteration 8: x=[nan nan], f(x)=nan
+Iteration 9: x=[nan nan], f(x)=nan
+Iteration 10: x=[nan nan], f(x)=nan
+Iteration 11: x=[nan nan], f(x)=nan
+Iteration 12: x=[nan nan], f(x)=nan
+Iteration 13: x=[nan nan], f(x)=nan
+Iteration 14: x=[nan nan], f(x)=nan
+Iteration 15: x=[nan nan], f(x)=nan
+Iteration 16: x=[nan nan], f(x)=nan
+Iteration 17: x=[nan nan], f(x)=nan
+Iteration 18: x=[nan nan], f(x)=nan
+Iteration 19: x=[nan nan], f(x)=nan
+Iteration 20: x=[nan nan], f(x)=nan
+Iteration 21: x=[nan nan], f(x)=nan
+Iteration 22: x=[nan nan], f(x)=nan
+Iteration 23: x=[nan nan], f(x)=nan
+Iteration 24: x=[nan nan], f(x)=nan
+Iteration 25: x=[nan nan], f(x)=nan
+Iteration 26: x=[nan nan], f(x)=nan
+Iteration 27: x=[nan nan], f(x)=nan
+Iteration 28: x=[nan nan], f(x)=nan
+Iteration 29: x=[nan nan], f(x)=nan
+Iteration 30: x=[nan nan], f(x)=nan
+Iteration 31: x=[nan nan], f(x)=nan
+Iteration 32: x=[nan nan], f(x)=nan
+Iteration 33: x=[nan nan], f(x)=nan
+Iteration 34: x=[nan nan], f(x)=nan
+Iteration 35: x=[nan nan], f(x)=nan
+Iteration 36: x=[nan nan], f(x)=nan
+Iteration 37: x=[nan nan], f(x)=nan
+Iteration 38: x=[nan nan], f(x)=nan
+Iteration 39: x=[nan nan], f(x)=nan
+Iteration 40: x=[nan nan], f(x)=nan
+Iteration 41: x=[nan nan], f(x)=nan
+Iteration 42: x=[nan nan], f(x)=nan
+Iteration 43: x=[nan nan], f(x)=nan
+Iteration 44: x=[nan nan], f(x)=nan
+Iteration 45: x=[nan nan], f(x)=nan
+Iteration 46: x=[nan nan], f(x)=nan
+Iteration 47: x=[nan nan], f(x)=nan
+Iteration 48: x=[nan nan], f(x)=nan
+Iteration 49: x=[nan nan], f(x)=nan
+Iteration 50: x=[nan nan], f(x)=nan
+Iteration 51: x=[nan nan], f(x)=nan
+Iteration 52: x=[nan nan], f(x)=nan
+Iteration 53: x=[nan nan], f(x)=nan
+Iteration 54: x=[nan nan], f(x)=nan
+Iteration 55: x=[nan nan], f(x)=nan
+Iteration 56: x=[nan nan], f(x)=nan
+Iteration 57: x=[nan nan], f(x)=nan
+Iteration 58: x=[nan nan], f(x)=nan
+Iteration 59: x=[nan nan], f(x)=nan
+Iteration 60: x=[nan nan], f(x)=nan
+Iteration 61: x=[nan nan], f(x)=nan
+Iteration 62: x=[nan nan], f(x)=nan
+Iteration 63: x=[nan nan], f(x)=nan
+Iteration 64: x=[nan nan], f(x)=nan
+Iteration 65: x=[nan nan], f(x)=nan
+Iteration 66: x=[nan nan], f(x)=nan
+Iteration 67: x=[nan nan], f(x)=nan
+Iteration 68: x=[nan nan], f(x)=nan
+Iteration 69: x=[nan nan], f(x)=nan
+Iteration 70: x=[nan nan], f(x)=nan
+Iteration 71: x=[nan nan], f(x)=nan
+Iteration 72: x=[nan nan], f(x)=nan
+Iteration 73: x=[nan nan], f(x)=nan
+Iteration 74: x=[nan nan], f(x)=nan
+Iteration 75: x=[nan nan], f(x)=nan
+Iteration 76: x=[nan nan], f(x)=nan
+Iteration 77: x=[nan nan], f(x)=nan
+Iteration 78: x=[nan nan], f(x)=nan
+Iteration 79: x=[nan nan], f(x)=nan
+Iteration 80: x=[nan nan], f(x)=nan
+Iteration 81: x=[nan nan], f(x)=nan
+Iteration 82: x=[nan nan], f(x)=nan
+Iteration 83: x=[nan nan], f(x)=nan
+Iteration 84: x=[nan nan], f(x)=nan
+Iteration 85: x=[nan nan], f(x)=nan
+Iteration 86: x=[nan nan], f(x)=nan
+Iteration 87: x=[nan nan], f(x)=nan
+Iteration 88: x=[nan nan], f(x)=nan
+Iteration 89: x=[nan nan], f(x)=nan
+Iteration 90: x=[nan nan], f(x)=nan
+Iteration 91: x=[nan nan], f(x)=nan
+Iteration 92: x=[nan nan], f(x)=nan
+Iteration 93: x=[nan nan], f(x)=nan
+Iteration 94: x=[nan nan], f(x)=nan
+Iteration 95: x=[nan nan], f(x)=nan
+Iteration 96: x=[nan nan], f(x)=nan
+Iteration 97: x=[nan nan], f(x)=nan
+Iteration 98: x=[nan nan], f(x)=nan
+Iteration 99: x=[nan nan], f(x)=nan
+f6 :
+Iteration 1: x=[1 1], f(x)=49.85777661748122
+Iteration 2: x=[0.90392181 0.71125004], f(x)=19.502822425228196
+Iteration 3: x=[0.541439   0.34876724], f(x)=5.499765783071437
+Iteration 4: x=[0.34166788 0.14899612], f(x)=3.44838766493997
+Iteration 5: x=[ 0.15154652 -0.04112524], f(x)=2.899440719903584
+Iteration 6: x=[ 0.1298391  -0.06283266], f(x)=2.8919551687342353
+Iteration 7: x=[ 0.12564619 -0.06702557], f(x)=2.8915782966699184
+Iteration 8: x=[ 0.1240768  -0.06859496], f(x)=2.8915244087944862
+Iteration 9: x=[ 0.12346616 -0.0692056 ], f(x)=2.8915162130235963
+Iteration 10: x=[ 0.12322645 -0.06944532], f(x)=2.8915149478741506
+Iteration 11: x=[ 0.12313203 -0.06953973], f(x)=2.891514751490648
+Iteration 12: x=[ 0.1230948  -0.06957697], f(x)=2.8915147209412604
