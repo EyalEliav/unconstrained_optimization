@@ -1,3 +1,5 @@
+import os
+
 import matplotlib.pyplot as plt
 import numpy as np
 
@@ -22,5 +24,6 @@ class GraphDrawing:
     def draw_point(self, x):
         plt.plot(x[0], x[1], 'go')
 
-    def finish_draw(self):
+    def finish_draw(self, filename):
         plt.show()
+        plt.savefig(os.path.dirname(__file__) + f"/../plots/{filename}.png")

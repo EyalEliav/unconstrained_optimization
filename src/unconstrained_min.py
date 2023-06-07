@@ -42,7 +42,7 @@ class UnconstrainedOptimizationMinimizer:
                 x = x_next
                 iteration += 1
             graph_drawer.draw_point(x)
-            graph_drawer.finish_draw()
+            graph_drawer.finish_draw(title)
             return success, x, f_x
 
     def gradient_descent(self, f, x, *args):
